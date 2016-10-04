@@ -5,6 +5,8 @@
 #include<Wire.h>
 #include <SharpIR.h>
 
+
+
 #define ir A0
 #define model 1080
 
