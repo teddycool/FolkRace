@@ -85,5 +85,5 @@ void loop(){
   Serial.print(" | Z Value: ");
   Serial.print(z);
   Serial.println();
-  delay(333);
+  delay(10);
 }
