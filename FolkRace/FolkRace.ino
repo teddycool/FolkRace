@@ -65,7 +65,7 @@ void setup()
 
 
 
-	pinMode(IN1, OUTPUT);
+	pinMode(IN1, OUTPUT); 
 	pinMode(IN2, OUTPUT);
 	myservo.attach(SERVO);
 	myservo.write(servoCenter);              // tell servo to go to position in variable 'pos'
